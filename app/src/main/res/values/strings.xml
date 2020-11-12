@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+    <string name="calculate_your_age">Calculate Your Age</string>
+    <string name="zero">00</string>
+    <string name="whatis">What is your date of birth?</string>
+    <string name="years">Years</string>
+    <string name="months">Months</string>
+    <string name="days">Days</string>
+    <string name="your_age">Your Age</string>
+    <string name="next_birthday">Next Birthday</string>
+    <string name="you_have_lived_for">You Have Lived For</string>
+    <string name="total_years">Total Years : </string>
+    <string name="total_months">Total Months : </string>
+    <string name="total_weeks">Total Weeks : </string>
+    <string name="total_days">Total Days : </string>
+    <string name="total_hours">Total Hours : </string>
+    <string name="total_minutes">Total Minutes : </string>
+    <string name="total_seconds">Total Seconds : </string>
+    <string name="desc">To get your age calculated, just enter your age and click on calculate button</string>
+    <string name="age_desc">Here is your age simplified and converted to different formats!</string>
+</resources>

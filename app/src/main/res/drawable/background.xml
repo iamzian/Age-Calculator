@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <solid
+        android:color="@color/White"
+        />
+
+    <gradient
+        android:startColor="@color/cardBackgroundColor"
+        android:endColor="#28416f"
+        android:angle="135"
+        />
+
+</shape>
