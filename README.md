@@ -7,3 +7,6 @@ Sometimes, it’s very difficult to find precise age. Age Calculator is very eas
 •	Clean Design: Beautifully designed with a simple, clean and minimal design manner. The most beautiful Age Calculator app ever!
 •	Easy To Use: The usability of this app is so easy to find out that how many Month and days are remain in your next birthday or anniversary, Even a kid can use this app without any trouble. 
 •	You also can Share this app with your friends, family etc.
+
+
+Visit on playstore : https://play.google.com/store/apps/details?id=com.age.agecalculater
